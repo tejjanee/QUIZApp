@@ -56,7 +56,7 @@ export const AuthLogin = () => {
                 <form onSubmit={handleLoginClick}>
                     <div className="form-container">
                         <label className="form-label">Username</label>
-                        <input value={username} className="form-input lh-ls" placeholder="prakashsakari" onChange={handleUserNameChange}/>
+                        <input value={username} className="form-input lh-ls" placeholder="tejaram" onChange={handleUserNameChange}/>
                     </div>
                     <div className="form-container">
                         <label className="form-label">Password</label>
